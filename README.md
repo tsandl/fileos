@@ -6,6 +6,8 @@ a simple file system is based on ext and using c++.It is comfortable for linux.
 # in dir filesytem
 
  if you want to run the whole project 'compile and create file',just input **make**.
+ 
+ ![avatar](/tsxxx/fileos/picture/make.png)
 
  if you want to delete file,just input **make clean**.
 
