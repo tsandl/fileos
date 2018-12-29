@@ -31,16 +31,16 @@
  
  ##The function of file system
  
-   help    ---  show help menu
-   clear   ---  clear the screen
-   ls      ---  list the digest of the directory's children 
-   ls -l   ---  list the detail of the directory's children 
-   cd      ---  change directory 
-   mkdir   ---  make directory   
-   touch   ---  create a new file 
-   cat     ---  read a file 
-   write   ---  write something to a file 
-   rm      ---  delete a directory or a file 
-   mv      ---  rename a file or directory 
-   chmod   ---  change the authorizatino of a directory or a file 
-   exit 
+   <br> help    ---  show help menu </br>
+   <br> clear   ---  clear the screen </br>
+   <br> ls      ---  list the digest of the directory's children </br>
+   <br> ls -l   ---  list the detail of the directory's children </br>
+   <br> cd      ---  change directory </br>
+   <br> mkdir   ---  make directory </br>  
+   <br> touch   ---  create a new file </br>
+   <br> cat     ---  read a file </br>
+   <br> write   ---  write something to a file </br>
+   <br> rm      ---  delete a directory or a file </br>
+   <br> mv      ---  rename a file or directory </br>
+   <br> chmod   ---  change the authorizatino of a directory or a file </br>
+   <br> exit </br>
