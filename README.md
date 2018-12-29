@@ -29,7 +29,7 @@
  
  ![](/picture/accountback.png)
  
- ##The function of file system
+ ## The function of file system
  
    <br> help    ---  show help menu </br>
    <br> clear   ---  clear the screen </br>
