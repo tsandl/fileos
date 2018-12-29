@@ -5,7 +5,7 @@
 
 ## Fn directory filesytem
 
- the architecture of this file system is like the following picture.
+ the architecture of this file system is like the following picture.But i lack of group descriptors and Reserved GDT block.
  
  ![](/picture/architecture.png)
 
