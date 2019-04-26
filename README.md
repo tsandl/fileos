@@ -1,7 +1,7 @@
 # Fileos
  a simple file system is based on ext and using c++.It is comfortable for linux.
 
-*filesystem-1.0.tar.gz* is the best version of all.I write a simple makefile in it just for compiling easily.
+*filesystem-1.0.tar.gz* is the better version of all.I write a simple makefile in it just for compiling easily.
 
 ## Fn directory filesytem
 
