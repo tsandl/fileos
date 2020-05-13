@@ -7,11 +7,11 @@
 
  the architecture of this file system is like the following picture.But i lack of group descriptors and Reserved GDT block.
  
- ![Image](https://github.com/tsxxx/fileos/tree/master/picture/architecture.png)
+ ![image](https://github.com/tsxxx/fileos/tree/master/picture/architecture.png)
 
  the tree of filesystem.
  
- ![Image](/picture/tree.png)
+ ![image](/picture/tree.png)
  
  if you want to run the whole project 'compile and create file',just input **make**.
  
