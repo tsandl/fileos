@@ -7,7 +7,7 @@
 
  the architecture of this file system is like the following picture.But i lack of group descriptors and Reserved GDT block.
  
- ![](https://github.com/tsxxx/fileos/tree/master/picture/architecture.png)
+ ![image text](https://github.com/tsxxx/fileos/tree/master/picture/architecture.png)
 
  the tree of filesystem.
  
