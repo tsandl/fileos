@@ -11,7 +11,7 @@
 
  the tree of filesystem.
  
- ![](/picture/tree.png)
+ ![Image](/picture/tree.png)
  
  if you want to run the whole project 'compile and create file',just input **make**.
  
